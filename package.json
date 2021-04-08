@@ -1,0 +1,19 @@
+{
+  "name": "arktwialert",
+  "version": "1.0.0",
+  "description": "Twitter Alert",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TwitterAlert"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twitter": "^1.7.1"
+  }
+}
